@@ -2,7 +2,8 @@
 
 PyTorch implementation of [Forward-Forward Algorithm](https://www.cs.toronto.edu/~hinton/FFA13.pdf) introduced by Geoffrey Hinton in 2022.
 
-The [notebook](./supervised_ffa_mnist.ipynb) in this repo attempts to implement supervised forward-forward algorithm on MNIST dataset described in Section 3.3. 
+* [Supervised forward-forward algorithm on MNIST](./supervised_ffa_mnist.ipynb)
+![supervised_ffa_mnist](./supervised_ffa_mnist.png)
 
 
 ## Additional Resources
