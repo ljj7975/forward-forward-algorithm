@@ -8,4 +8,4 @@ PyTorch implementation of [Forward-Forward Algorithm](https://www.cs.toronto.edu
 
 ## Additional Resources
 * My implementation is improved version of [Mohammad Pezeshki's implementation](https://github.com/mohammadpz/pytorch_forward_forward)
-* (Martin Görner's high level explanation)[[https://twitter.com/martin_gorner/status/1599755684941557761]] can be a good starting point
+* (Martin Görner's high level explanation)[https://twitter.com/martin_gorner/status/1599755684941557761] can be a good starting point
